@@ -8,3 +8,5 @@ javac -cp ".:jai_core.jar:jai_codec.jar" *.java
 
 To run, enter in terminal:
 java -cp ".:jai_core.jar:jai_codec.jar" Gui
+
+The files to filter must be TIFF images.
